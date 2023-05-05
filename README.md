@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayali</h1>
-<h3 align="center">A passionate Coomputer Engineering Student from India</h3>
+<h3 align="center">A Diligent Computer Engineering Student from India</h3>
 
 
 - 🌱 I’m currently learning **Web Development and Machine Learning**
