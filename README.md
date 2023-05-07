@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning **Web Development and Machine Learning**
 
-- 📫 How to reach me **sayalipr@gmail.com**
+- 📫 How to reach me **sayalipr15@gmail.com**
 
-- ⚡ Fun fact **I am not so social**
+- ⚡ Fun fact **I dont have much friends**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
