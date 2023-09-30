@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 What's kicking, little buddy? BTW I'm Sayali.. :
 🚀 I'm currently working on Full Stack Development<br>🍉 I'm looking to contribute as much as possible<br>💪🏻 I'm currently GDSC Lead at MET BKC<br> ☁  Reach out to me for Collaboration<br>🌱 Fun fact - I love to Travel<br>☕ Let's discuss books and have a coffee someday
 
 
