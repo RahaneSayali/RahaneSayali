@@ -1,5 +1,5 @@
 # 💫 What's kicking, little buddy? BTW I'm Sayali.. :
-🚀 I'm currently working on MERN Stack Development <br>🍉 I'm looking to contribute as much as possible<br>💪🏻 2024 Aim- DSA PRO, MERN STACK DEV<br> ☁  Reach out to me for Collaboration<br>🌱 Fun fact - I'am not perfect in anything but Yes I try <br>☕ Let's discuss books and have a cup of coffee someday
+🚀 I'm currently doing projects on mern stack <br>🍉 I'm looking to contribute as much as possible<br>💪🏻 2024 Aim- DSA PRO, MERN STACK DEV <br> ☁  Reach out to me for Collaboration<br>🌱 Fun fact - I'am not perfect in anything but Yes I try <br>☕ Let's discuss books and have a cup of coffee someday..hehe
 
 
 ## 🌐 Socials:
