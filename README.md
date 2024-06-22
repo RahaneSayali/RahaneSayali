@@ -17,7 +17,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=RahaneSayali&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-
-
-![snake gif](https://github.com/RahaneSayali/RahaneSayali/blob/output/github-contribution-grid-snake.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
