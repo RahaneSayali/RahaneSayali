@@ -1,4 +1,4 @@
-# What's kicking, little buddy? BTW I'm Sayali..
+#I'm Sayali..
 
 
 
