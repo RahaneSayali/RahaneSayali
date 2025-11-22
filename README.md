@@ -6,6 +6,24 @@
 [![GitHub Follow](https://img.shields.io/github/followers/RahaneSayali?label=Follow&style=social)](https://github.com/RahaneSayali)&nbsp;
 
 ---
+## 👩🏻‍💻 &nbsp;About Me
+
+
+💡 &nbsp;I'm Sayali, a backend developer with strong experience in **Node.js, TypeScript, PostgreSQL, MongoDB, AWS, and DynamoDB**, now increasingly focusing on enterprise-level development.
+
+🌱 &nbsp;Currently working extensively with the **.NET ecosystem, Azure services, and cloud-native architectures**, building and maintaining scalable backend workflows.
+
+☁️ &nbsp;I enjoy working within the Azure ecosystem including **Blob Storage, Azurite, Storage Explorer, Azure Functions, and Azure monitoring tools** to create efficient, production-ready cloud systems.
+
+🚀 &nbsp;I love building reliable backend systems, microservices, and real-world applications that solve meaningful problems.
+
+📈 &nbsp;Actively leveling up in **AWS Lambda, DynamoDB, CI/CD pipelines, and Microservices**, strengthening my backend + cloud engineering skill set.
+
+🧠 &nbsp;Skilled in **DSA, clean architecture, MVC, DTO-based structures, and debugging complex systems**, with a strong focus on writing clean and maintainable code.
+
+📚 &nbsp;I enjoy continuous learning, mentoring juniors, and exploring modern cloud and distributed system concepts.
+
+💬 &nbsp;Always open to collaboration, backend discussions, and system design conversations!
 
 # 🛠 Tech Stack
 
@@ -61,25 +79,6 @@
 
 <br/><br/>
 </div>
-
-## 👩🏻‍💻 &nbsp;About Me
-
-
-💡 &nbsp;I'm Sayali, a backend developer with strong experience in **Node.js, TypeScript, PostgreSQL, MongoDB, AWS, and DynamoDB**, now increasingly focusing on enterprise-level development.
-
-🌱 &nbsp;Currently working extensively with the **.NET ecosystem, Azure services, and cloud-native architectures**, building and maintaining scalable backend workflows.
-
-☁️ &nbsp;I enjoy working within the Azure ecosystem including **Blob Storage, Azurite, Storage Explorer, Azure Functions, and Azure monitoring tools** to create efficient, production-ready cloud systems.
-
-🚀 &nbsp;I love building reliable backend systems, microservices, and real-world applications that solve meaningful problems.
-
-📈 &nbsp;Actively leveling up in **AWS Lambda, DynamoDB, CI/CD pipelines, and Microservices**, strengthening my backend + cloud engineering skill set.
-
-🧠 &nbsp;Skilled in **DSA, clean architecture, MVC, DTO-based structures, and debugging complex systems**, with a strong focus on writing clean and maintainable code.
-
-📚 &nbsp;I enjoy continuous learning, mentoring juniors, and exploring modern cloud and distributed system concepts.
-
-💬 &nbsp;Always open to collaboration, backend discussions, and system design conversations!
 
 ---
 
